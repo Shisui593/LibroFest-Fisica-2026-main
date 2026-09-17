@@ -18,7 +18,6 @@ Recurso digital interactivo desarrollado para la feria académica **LibroFest**,
 - **📊 Telemetría y Exportación:**
   - Panel HUD con resultados físicos en tiempo real ($x, \Delta x, d, v, a$).
   - Tabla de datos discreta segundo a segundo.
-  - **Botón de exportación a archivo `.CSV`** para análisis en Excel.
 - **🎯 Modo Desafíos:**
   - 2 niveles interactivos de dificultad progresiva con puntuación, efectos de sonido y resolución matemática paso a paso.
 - **📱 Código QR Integrado:**
