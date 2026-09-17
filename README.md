@@ -19,9 +19,7 @@ Recurso digital interactivo desarrollado para la feria académica **LibroFest**,
   - Panel HUD con resultados físicos en tiempo real ($x, \Delta x, d, v, a$).
   - Tabla de datos discreta segundo a segundo.
   - **Botón de exportación a archivo `.CSV`** para análisis en Excel.
-- **🎯 Modo Desafíos Gamificados (Para el Stand del LibroFest):**
-  - 3 niveles interactivos de dificultad progresiva con cálculo de tolerancias, puntuación, efectos de sonido (Web Audio API) y resolución matemática paso a paso.
+- **🎯 Modo Desafíos:**
+  - 2 niveles interactivos de dificultad progresiva con puntuación, efectos de sonido y resolución matemática paso a paso.
 - **📱 Código QR Integrado:**
   - Generador de QR directo para que cualquier visitante o docente abra el simulador en su smartphone en segundos.
-- **💻 Sección Pedagógica de Computación:**
-  - Explicación de *Game Loops* (`position += velocity * dt`), interpolación lineal (*Lerp*), odometría robótica y latencia de redes.
